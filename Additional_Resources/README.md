@@ -1,6 +1,6 @@
 Test line here
 
-| First Header | Second Header |
-|--------------|---------------|
-| Content cell | content cell  |
-| content cell | content cell  |
+| First Header | Second Header |Third Header|
+|--------------|---------------|------------|
+| Content cell | content cell  | content cell
+| content cell | content cell  |content cell|
