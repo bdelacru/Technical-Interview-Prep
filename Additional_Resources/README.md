@@ -8,10 +8,10 @@
 | InterviewBit | Website  | Quiz-base application of coding interview topics | has some technical interview questions. But this site should be used to review. There are contests you can also participate in!| [website page](https://www.interviewbit.com/) | FREE |
 | Pramp | Website  | Peer-to-peer mock interview | Get matched with someone to practice coding interviews. The practice problems will the provided. You and your peer interview one another for 30 minutes each. After the interview, you both rate the other's performance. | [website page](https://www.pramp.com/#/) | FREE |
 | Mycodeschool| Youtube Channel  | Educational resource for coding interviews. | Each type of algorithm and topic has its own video. The instructor will walk you through the topic and tends to explain things very well. |[Youtube Channel](https://www.youtube.com/user/mycodeschool/playlists?disable_polymer=1) | FREE|
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
+|Gainlo|Website| Mock interview with a professional | You are paired up with a professional from a similar company you expressed interest. Mock interview takes place on Skype with code-sharing tools. You will get immediate feedback at the end | [website page](http://www.gainlo.co/?utm_source=blog&utm_campaign=blog&utm_medium=Chapter%203%20-%20Practice%20Coding%20Questions#!/) | FREE |
+| Facebook codelab | Website  | Facebook's own technical interview prep | Powered by InterviewBit, so it's a quiz-base application but these are the questions Facebook typically asks in their tenchical interviews| [website page](https://codelab.interviewbit.com/registration/?) | FREE |
+| HackerRank| Website  | Most popular hiring platform |Practice coding challenges on the platform several companies use for their technical interviews | [website page](https://www.hackerrank.com/dashboard) | FREE |
+| Projecteuler| Website  | A series of challenging mathematical/computer programming problems | The problems are updates periodically and it ranges from difficulty | [website page](https://projecteuler.net/about)| FREE |
 | content cell | content cell  | content cell | content cell | content cell | content cell |
 | content cell | content cell  | content cell | content cell | content cell | content cell |
 | content cell | content cell  | content cell | content cell | content cell | content cell |
