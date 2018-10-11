@@ -12,10 +12,8 @@
 | Facebook codelab | Website  | Facebook's own technical interview prep | Powered by InterviewBit, so it's a quiz-base application but these are the questions Facebook typically asks in their tenchical interviews| [website page](https://codelab.interviewbit.com/registration/?) | FREE |
 | HackerRank| Website  | Most popular hiring platform |Practice coding challenges on the platform several companies use for their technical interviews | [website page](https://www.hackerrank.com/dashboard) | FREE |
 | Projecteuler| Website  | A series of challenging mathematical/computer programming problems | The problems are updates periodically and it ranges from difficulty | [website page](https://projecteuler.net/about)| FREE |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
-| content cell | content cell  | content cell | content cell | content cell | content cell |
+| Awesome-interview-questions | Github repo  | Github repo of most common tech. questions| This Github repo also includes interview questions for a variety of different languages |[Github repo](https://github.com/MaximAbramchuck/awesome-interview-questions#java) | FREE |
+| Codility | Website  | Includes lessons and coding challenges | If you do well on the coding challenges, possible employeers might take notice and would want to hire you | [website page](https://app.codility.com/programmers/) | FREE|
+| Firecode | Website | Firecode.io's learning engine carefully curated interview questions | Has website community where you can ask questions and vote questions | [website page](https://www.firecode.io/) | FREE |
+
 
